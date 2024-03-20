@@ -17,7 +17,7 @@
   import { ref, defineComponent } from "vue";
   import { cdxIconSearch } from '@wikimedia/codex-icons';
   import { CdxIcon, CdxField, CdxTextInput } from '@wikimedia/codex';
-  import  './WordSearch.css';
+  import  '../assets/css/WordSearch.css';
   export default defineComponent({
     name: 'WordSearch',
     components: { CdxIcon, CdxField, CdxTextInput },

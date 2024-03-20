@@ -5,7 +5,7 @@
   <script>
   import { defineComponent } from 'vue';
   import { CdxToggleSwitch } from '@wikimedia/codex';
-  import './DarkModeToggle.css';
+  import '../assets/css/DarkModeToggle.css';
   export default defineComponent({
     name: 'DarkModeToggle',
     props: {

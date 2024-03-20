@@ -21,7 +21,7 @@
 <script>
 import { ref, defineComponent } from "vue";
 import { CdxSearchInput, CdxField } from '@wikimedia/codex';
-import './Searchbar.css';
+import '../assets/css/Searchbar.css';
 export default defineComponent({
   name: 'SearchBar',
   components: { CdxSearchInput, CdxField },

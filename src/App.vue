@@ -1,7 +1,7 @@
 
 <template>
   <div id="app">
-  <img src="@/assets/MediaWiki-2020-large-icon.svg.png" alt="Logo" class="logo" />
+  <img src="/public/MediaWiki-2020-large-icon.svg.png" alt="Logo" class="logo" />
   <div class="search" :class="{ 'dark-mode': darkMode, 'light-mode': !darkMode }">
     <DarkModeToggle :darkMode="darkMode" @update:dark-mode="updateDarkMode" />
     <SearchBar @search="handleSearch" />

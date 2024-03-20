@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import './SearchResults.css'; 
+import '../assets/css/SearchResults.css'; 
 export default {
   props: {
     loading: {
