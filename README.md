@@ -14,5 +14,5 @@ npm run dev
 and navigate to localhost:5173
 
 ## Demo Video
-file:///home/angel/Videos/Screencasts/Screencast%20from%2021-03-24%2012:47:07%20AM%20IST.webm
 
+[Screencast from 21-03-24 12:47:07 AM IST.webm](https://github.com/fillingtothemomo/Wiki_Project/assets/122573982/e757be6e-1ff1-4a6b-bdda-309093faf268)
