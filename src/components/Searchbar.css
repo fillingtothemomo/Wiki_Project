@@ -1,0 +1,32 @@
+@import '@wikimedia/codex-design-tokens/theme-wikimedia-ui.css';
+
+.search-container {
+  margin-left: -40px;
+  justify-content: center;
+  display: flex;
+  margin-top:-400px;
+  
+}
+.search-container,
+.search-container * {
+  font-size: 20px; 
+  line-height:40px;/* Adjust the font size as needed */
+}
+.cdx-search-input--has-end-button{
+border:0 ;
+}
+.cdx-search-input__end-button.cdx-button {
+  position: relative;
+  margin-left:-80px;
+  border-radius:50px;
+  background-color:var(--color-progressive--focus);
+}
+.search-container .cdx-text-input__input{
+  border-radius: 50px ;
+  min-width:300px;
+
+
+}
+.cdx-text-input {
+border: 0;
+}

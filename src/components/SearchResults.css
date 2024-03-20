@@ -1,0 +1,27 @@
+.result-container {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 200px;
+    width: 900px; /* Adjust width as needed */
+    height: 300px; /* Set fixed height */
+  }
+  
+  .scrollable-results {
+    max-height: 300px; /* Set max height to prevent overflowing */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  
+  .search-results {
+    list-style: none;
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    display: flex;
+    flex-wrap: wrap; /* Allow flex items to wrap */
+  }
+  
+  .search-result {
+    flex: 0 0 calc(50% - 10px); /* Adjust width of columns */
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  

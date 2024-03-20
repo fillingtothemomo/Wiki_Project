@@ -1,0 +1,28 @@
+  @import '@wikimedia/codex-design-tokens/theme-wikimedia-ui.css';
+  
+  .word-search {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    margin-top:-150px;
+    margin-left: 150px;}
+  
+  input[type="number" i] { box-sizing: border-box;
+  border: 1px solid #ccc; /* Set a border to ensure the input field is visible */
+  padding: 4px 8px;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: 1.375;
+  margin-left:2px;
+
+  }
+
+ .search-button{
+  margin-top: 4px;
+  position: relative;
+  width:50px;
+  height:32px;
+ }
+  
+
+  
