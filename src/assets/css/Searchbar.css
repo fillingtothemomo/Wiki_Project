@@ -10,7 +10,7 @@
 .search-container,
 .search-container * {
   font-size: 20px; 
-  line-height:40px;/* Adjust the font size as needed */
+  line-height:40px;
 }
 .cdx-search-input--has-end-button{
 border:0 ;

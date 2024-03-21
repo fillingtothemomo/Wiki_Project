@@ -8,14 +8,13 @@
     margin-left: 150px;}
   
   input[type="number" i] { box-sizing: border-box;
-  border: 1px solid #ccc; /* Set a border to ensure the input field is visible */
+  border: 1px solid #ccc; 
   padding: 4px 8px;
   font-family: inherit;
   font-size: inherit;
   line-height: 1.375;
   margin-left:2px;
-
-  }
+}
 
  .search-button{
   margin-top: 4px;
