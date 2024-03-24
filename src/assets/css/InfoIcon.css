@@ -1,0 +1,9 @@
+  
+  .info-icon {
+    position: absolute;
+    margin-top:-605px;
+    margin-left:800px;
+  }
+  .info-icon .cdx-icon{
+    color:blue;
+  }
