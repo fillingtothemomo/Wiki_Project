@@ -14,5 +14,7 @@ npm run dev
 and navigate to localhost:5173
 
 ## Demo Video
+[Screencast from 25-03-24 10:22:01 PM IST.webm](https://github.com/fillingtothemomo/Wiki_Project/assets/122573982/5e29019d-7119-4456-a183-fd36259e47be)
 
-[Screencast from 21-03-24 12:47:07 AM IST.webm](https://github.com/fillingtothemomo/Wiki_Project/assets/122573982/e757be6e-1ff1-4a6b-bdda-309093faf268)
+## Deployed here
+https://wikiword.netlify.app/
