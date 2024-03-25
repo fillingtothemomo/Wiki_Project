@@ -1,6 +1,6 @@
 <template>
     <div class="word-search">
-      <cdx-field :status="status" :messages="messages">
+      <cdx-field>
         <cdx-text-input placeholder="enter word" v-model="searchValue" />
       
       </cdx-field>

@@ -1,0 +1,74 @@
+ @import '@wikimedia/codex-design-tokens/theme-wikimedia-ui.css';
+  
+  .search-info {
+    margin-top: 5px;
+  }
+  
+  .error {
+    color: var(--color-error) !important;
+  }
+  .menu-item-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 0.8; 
+  }
+  .words-search {
+    position: absolute;
+    margin-top: -40px;
+    font-weight:bolder ;
+    font-size: 20px;;
+  }
+  .search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    box-shadow: var(--box-shadow-drop-xx-large);
+    height: 79vh;
+    width: 150vh;
+    border-radius: 5px;
+    margin: 100px;
+  }
+  
+  .light-mode .cdx-search-input--has-end-button .cdx-search-input__input-wrapper .cdx-text-input {
+    background-color: white; 
+  }
+  
+  .dark-mode .cdx-search-input--has-end-button .cdx-search-input__input-wrapper .cdx-text-input {
+    background-color: #333;
+  }
+  .dark-mode .cdx-search-input__end-button.cdx-button {
+    border-radius: 0px;
+  }
+  
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .light-mode {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .lang-dropdown {
+    margin-top: 45px;
+    margin-left:-500px;
+  }
+  
+  .menu-item-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    width: 150px;
+    height: 150px;
+  }
+  .link-icon {
+    cursor: pointer;
+  }
