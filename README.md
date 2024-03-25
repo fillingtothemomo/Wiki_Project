@@ -1,4 +1,4 @@
-# Wiki_project
+# Wiki_Word
 Microtask for:
 https://phabricator.wikimedia.org/T357337
 
